@@ -8,7 +8,7 @@ gzip은 텍스트 파일을 압축할 때 최상의 성능을 낸다고 함.
 
 웹 사이트는 HTML, CSS, JavaScript, JSON 등 대부분의 요소가 텍스트.
 
-<img src="./gzipTable.png">
+<img src="./gzipTable.">
 
 현재 대부분 브라우저는 gzip에 대한 기능 탑재.
 HTTP/1.1 명세에 포함.
