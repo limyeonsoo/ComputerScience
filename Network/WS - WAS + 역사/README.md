@@ -1,4 +1,4 @@
-(notion)[https://www.notion.so/WebServer-WAS-81f4940e87bc4d51bd38eaa6a26dfd1f#a10808cecef04ae781d793c4e818bfbd]
+[notion](https://www.notion.so/WebServer-WAS-81f4940e87bc4d51bd38eaa6a26dfd1f#a10808cecef04ae781d793c4e818bfbd)
 
 # WebServer / WAS
 
